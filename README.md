@@ -1,6 +1,9 @@
 # 🫀 Meditrones: A Biomedical Device Design for Affordable Holter Monitoring
 
-![Description](media/team.jpg)
+<p align="center">
+  <img src="media/team.jpg" alt="Device Photo" width="400"/>
+</p>
+
 ## 💡 Project Overview
 
 This project was carried out as part of the *BM2210 Biomedical Device Design* course. The goal was not just to build a product but to rigorously apply the biomedical device design process — from need-finding to prototyping — to address a critical healthcare gap in Sri Lanka: affordable, continuous cardiac monitoring.
