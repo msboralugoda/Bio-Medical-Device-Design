@@ -1,7 +1,7 @@
 # 🫀 Meditrones: A Biomedical Device Design for Affordable Holter Monitoring
 
 <p align="center">
-  <img src="media/team.jpg" alt="Device Photo" width="400"/>
+  <img src="media/teamhm.jpg" alt="Device Photo" width="400"/>
 </p>
 
 ## 💡 Project Overview
