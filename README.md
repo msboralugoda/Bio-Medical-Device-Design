@@ -1,16 +1,16 @@
-# 🫀 Meditrones: A Biomedical Device Design for Affordable Holter Monitoring
+# Meditrones: A Biomedical Device Design for Affordable Holter Monitoring
 
 <p align="center">
   <img src="media/teamhm.jpg" alt="Device Photo" width="400"/>
 </p>
 
-## 💡 Project Overview
+## Project Overview
 
 This project was carried out as part of the *BM2210 Biomedical Device Design* course. The goal was not just to build a product but to rigorously apply the biomedical device design process — from need-finding to prototyping — to address a critical healthcare gap in Sri Lanka: affordable, continuous cardiac monitoring.
 
 ---
 
-## 🏥 Problem Statement
+## Problem Statement
 
 > “There is a need for an affordable and reliable continuous ECG monitor with a mobile app interface in Sri Lankan hospitals to improve access to continuous heart monitoring, enhance cardiac care, and address the limitations of current costly devices.”
 
@@ -18,13 +18,13 @@ Current Holter monitors are expensive and scarce in many public hospitals. This 
 
 ---
 
-## 🔍 Design Journey Highlights
+## Design Journey Highlights
 
-### 🔬 Investigation & Needs Finding
+### Investigation & Needs Finding
 
 We explored multiple unmet needs in local hospitals and healthcare settings. After systematic screening, the need for an affordable, app-integrated Holter monitor was selected due to its feasibility, socio-economic relevance, and alignment with our team's expertise.
 
-### ⚙️ Concept Development
+### Concept Development
 
 Four concepts were initially brainstormed and evaluated:
 - Smartphone-dependent Holter monitor
@@ -36,7 +36,7 @@ Using screening matrices (risk, IP, regulation, business model), the smartphone-
 
 ---
 
-## 🧠 System Architecture
+## System Architecture
 
 ### Key Modules
 - **AD8232 ECG Module**: Signal acquisition
@@ -52,7 +52,7 @@ Using screening matrices (risk, IP, regulation, business model), the smartphone-
 
 ---
 
-## 📲 Mobile App Interface
+## Mobile App Interface
 
 Built with **React**, the app offers:
 - Real-time ECG visualization
@@ -62,7 +62,7 @@ Built with **React**, the app offers:
 
 ---
 
-## 🧭 Key Takeaways
+## Key Takeaways
 
 - This project emphasized the **entire biomedical design cycle**, including problem definition, ideation, concept screening, prototyping, and evaluation.
 - It demonstrated how **low-cost components** and **interdisciplinary thinking** can be used to develop impactful healthcare technologies.
